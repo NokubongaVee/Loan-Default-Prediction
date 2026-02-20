@@ -8,3 +8,6 @@ Banks need smarter lending decisions to:
 - Reduce financial losses from defaults
 - Approve qualified customers faster
 - Improve overall lending efficiency
+
+## Dataset
+This project uses the **Give Me Some Credit** dataset from Kaggle. It contains historical loan performance data with features like income, credit history, and loan amount. The data was loaded into Python for analysis and modeling.
